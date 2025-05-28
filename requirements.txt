@@ -1,6 +1,6 @@
 # requirements.txt
 
-pandas
-matplotlib
+# pandas
+# matplotlib
 requests
 numpy
